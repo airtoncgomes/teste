@@ -14,7 +14,7 @@ if(isset($_SESSION['email'])){
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Loja Virtual</title>
+<title>Teste</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://getbootstrap.com/docs/4.1/examples/navbar-fixed/navbar-top-fixed.css">
 </head>
