@@ -2,7 +2,7 @@ This is a simple order management system. You can log in only as an administrato
 
 You will be able to:
 
-- add product
-- edit product
-- delete product
-- view product
+- add products
+- edit products
+- delete products
+- view products
